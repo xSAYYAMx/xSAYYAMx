@@ -3,9 +3,10 @@
   Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   I'm Sayyam Verma</h1>
 
-<p align="center">
-  <strong>`Developer • AI Explorer • Digital Creator`</strong>
-</p>
+<h5 align="center">
+  
+**`Developer • AI Explorer • Digital Creator`**
+</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xsayyamx&label=Profile%20views&color=0e75b6&style=flat" alt="xsayyamx" />
